@@ -10,4 +10,4 @@
 
 for more information please click [hear](https://www.atlassian.com/blog/inside-atlassian/growth-mindset):+1:
 
-[Read01](https://kztahat.github.io/reading-notes/read01learningmarkdown)
+[Read01](https://kztahat.github.io/reading-notes/Read01LearningMarkdown)
