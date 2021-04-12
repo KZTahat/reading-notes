@@ -11,4 +11,4 @@ let us start with some simple tasks:
 3. Images:If you want to embed images, this is how you do it: "![Image discreption](Image URL)"
 
 
-[home](https://replit.com/@KZTahat/reading-notes#README.md)
+[home](https://kztahat.github.io/reading-notes/)

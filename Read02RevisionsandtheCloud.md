@@ -15,4 +15,4 @@
 
 
  
-[Home](https://replit.com/@KZTahat/reading-notes#README.md)
+[Home](https://kztahat.github.io/reading-notes/)
