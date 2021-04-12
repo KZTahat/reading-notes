@@ -8,4 +8,4 @@
 + Do not ignor **criticism** but learn from it.
 + Get inspired by **others success** and do not view them as threat.
 
-for more information please click [hear](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+for more information please click [hear](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) or go back home [Home](https://replit.com/@KZTahat/reading-notes#README.md)
