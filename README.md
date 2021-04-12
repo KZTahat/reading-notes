@@ -4,8 +4,8 @@
 ![Fixed mindset VS Growth mindset](https://irp-cdn.multiscreensite.com/069d5d93/dms3rep/multi/fixed.png)
 
 #### In order to keep my mind alive and stay focus in *growth mindset* I always remind myself with:
-- Ialways embrace the **challanges** and do not avoid them.
-- Do not ignor **criticism** but learn from it.
-- Get inspired by **others success** and do not view them as threat.
++ Ialways embrace the **challanges** and do not avoid them.
++ Do not ignor **criticism** but learn from it.
++ Get inspired by **others success** and do not view them as threat.
 
-for more information please click [hear](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+for more information please click [hear](https://www.atlassian.com/blog/inside-atlassian/growth-mindset):+1:
