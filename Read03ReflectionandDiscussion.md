@@ -25,4 +25,4 @@ he <aside> element has two purposes, depending on whether it is inside an <artic
 ## sections 
 The <section> element groups related content together, and typically each section would have its own heading.
 
-[Home](https://kztahat.github.io/reading-notes/ "Reading notes")
+[home]( https://kztahat.github.io/reading-notes/)
