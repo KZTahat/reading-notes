@@ -34,4 +34,4 @@ It can be used to contain any content that is referenced from the main flow of a
 ## 
 
 
-[home]( https://kztahat.github.io/reading-notes/)
+[Home]( https://kztahat.github.io/reading-notes/)

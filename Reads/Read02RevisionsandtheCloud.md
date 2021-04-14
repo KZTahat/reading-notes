@@ -16,4 +16,4 @@
 
 
  
-[home]( https://kztahat.github.io/reading-notes/)
+[Home]( https://kztahat.github.io/reading-notes/)
