@@ -1,4 +1,4 @@
-# Reflection and Discussion
+# Structure web pages with HTML
 ## HTML5 Layout
 ***HTML5*** introduces a new set of elements that allow you to divide up the parts of a page. The names of these elements indicate the kind of content you will find in them. They are still subject to change, but that has not stopped many web page authors using them already, and this set of elements include:
 
@@ -24,5 +24,14 @@ he <aside> element has two purposes, depending on whether it is inside an <artic
 
 ## sections 
 The <section> element groups related content together, and typically each section would have its own heading.
+
+## heading groups
+The purpose of the <hgroup> element is to group together a set of one or more <h1> through <h6> elements so that they are treated as one single heading. 
+
+## figures
+It can be used to contain any content that is referenced from the main flow of an article (not just images)
+
+## 
+
 
 [home]( https://kztahat.github.io/reading-notes/)
