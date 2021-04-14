@@ -12,7 +12,7 @@ Hello , my name is Khaled tahat I'm 24 years old fresh graduated with a bachelor
 |4  | Read03         | [Read03](https://kztahat.github.io/reading-notes/Read03ReflectionandDiscussion "Read03")|
 |5  | Read04a        | [Read04a]()|
 =======
-|4  | Read03         | [Read03](https://kztahat.github.io/reading-notes/Read03ReflectionandDiscussion "Read03")         |
+|4  | Read03         | [Read03](https://kztahat.github.io/reading-notes/Read03ReflectionandDiscussion "Read03")|
 
 
 
