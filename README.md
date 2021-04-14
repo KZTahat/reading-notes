@@ -10,4 +10,8 @@ Hello , my name is Khaled tahat I'm 24 years old fresh graduated with a bachelor
 |3  | Read02         | [Read02](https://kztahat.github.io/reading-notes/Reads/Read02RevisionsandtheCloud "Read02")          |
 |4  | Read03         | [Read03](https://kztahat.github.io/reading-notes/Reads/Read03ReflectionandDiscussion "Read03")       |
 |5  | Read04a        | [Read04a](https://kztahat.github.io/reading-notes/Reads/Read04aDynamicwebpageswithJavaScript"Read04a)|
+<<<<<<< HEAD
 |6  | Read04b        | [Read04b](https://kztahat.github.io/reading-notes/Reads/Read04aDynamicwebpageswithJavaScript"Read04a)|
+=======
+
+>>>>>>> 1134dd2700e09b0896dfe49e39ccefa40bfb28e5
