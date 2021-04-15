@@ -9,6 +9,7 @@ this operator compares to values (numbers, strings or boolean) to see if they ar
 - Strict not equal to (**!==**)
   this operator compares two values (numbers, strings or boolean) to check poth the datatype and value are not the same.
 - Greater than (**>**)
+<<<<<<< HEAD
   this operator checks if the number on the left is *greater than* the number on the right.
 - Less than (**<**)
   this operator checks if the number on the left is *less than* the number on the right.
@@ -16,10 +17,20 @@ this operator compares to values (numbers, strings or boolean) to see if they ar
   this operator checks if the number on the left is *greater than* or *equal* to the number on the right.
 - Less than or equal to (**<=**)
   this operator checks if the number on the left is*8less than* or *equal* to the number on the right.
+=======
+  this operator checks if the number on the left is greater than the number on the right.
+- Less than (**<**)
+  this operator checks if the number on the left is less than the number on the right.
+- Greater than or equal to (**>=**)
+  this operator checks if the number on the left is greater than or equal to the number on the right.
+- Less than or equal to (**<=**)
+  this operator checks if the number on the left is less than or equal to the number on the right.
+>>>>>>> 1c046a9d9f576f9101d37c1fc7776fbac2b25c2b
 
 ## Logical operators
 Comparison operatores usually return single values of true and false while logical operatores allow you to compare the results of more than one comparison operator.
 
+<<<<<<< HEAD
 - **Logical AND** (**&&**)
   this operator tests more than one condition (if both expression evaluate to *true* then the expression returns *true*. If just one of these return *false* then the expression returns *false*).
 - **logical OR** (**||**)
@@ -36,3 +47,11 @@ Comparison operatores usually return single values of true and false while logic
   this is similar to while loop but has one key difference : it will always run the code inside the curly braces at least once even if the condition evaluates to *false*
 
 [Home]( https://kztahat.github.io/reading-notes/)
+=======
+- Logical AND (**&&**)
+  this operator tests more than one condition (if both expression evaluate to true then the expression returns true. If just one of these return false then the expression returns false).
+- logical OR (**||**)
+  this operator tests at least one condition (if either expression evaluates to true then the expression returns true. If both return false then the expression returns false).
+- Logical NOT (**!**) 
+  This operator takes a single boolean value and inverts it  ()
+>>>>>>> 1c046a9d9f576f9101d37c1fc7776fbac2b25c2b
