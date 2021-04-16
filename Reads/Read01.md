@@ -29,6 +29,7 @@ let us start with some simple tasks:
   `<addr>` element here instead.
   ```
 &nbsp;
+
 5. ** Syntax highlighting, Task Lists and tables**
 
 &nbsp;
@@ -42,6 +43,8 @@ let us start with some simple tasks:
         }
       } ```
     ```
+&nbsp;
+
   we can also do task lists with this:
 
 &nbsp;
