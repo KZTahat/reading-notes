@@ -30,7 +30,9 @@ let us start with some simple tasks:
   ```
 &nbsp;
 5. ** Syntax highlighting, Task Lists and tables**
+
 &nbsp;
+
   we can syntax highlighting doing this:
     ```
       ```javascript
@@ -41,7 +43,9 @@ let us start with some simple tasks:
       } ```
     ```
   we can also do task lists with this:
+
 &nbsp;
+
     ``` 
     - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
     - [x] list syntax required (any unordered or ordered list supported)
@@ -49,14 +53,18 @@ let us start with some simple tasks:
     - [ ] this is an incomplete item
     ```
   and it will be shown like this:
+
 &nbsp;
+
     - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
     - [x] list syntax required (any unordered or ordered list supported)
     - [x] this is a complete item
     - [ ] this is an incomplete item
 
   Tables are also can be formed in markdown:
+
 &nbsp;
+
     ```
     First Header | Second Header
     ------------ | -------------
@@ -64,6 +72,7 @@ let us start with some simple tasks:
     Content in the first column | Content in the second column
     ```
 &nbsp;
+
   and it will look like this:
 
 &nbsp;
