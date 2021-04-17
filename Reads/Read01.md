@@ -36,6 +36,9 @@ let us start with some simple tasks:
 &nbsp;
 
   we can syntax highlighting doing this:
+
+&nbsp;
+
     ```
       ```javascript
       function fancyAlert(arg) {
