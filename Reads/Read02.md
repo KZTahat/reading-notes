@@ -25,6 +25,5 @@
 
   ![Repository sections](https://blog.udemy.com/wp-content/uploads/2015/08/image036.png)
 
-
  
 [Home]( https://kztahat.github.io/reading-notes/)
