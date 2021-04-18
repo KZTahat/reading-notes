@@ -1,7 +1,6 @@
 # Programming with JavaScript
 ## Functions 
 - **Declaring a function** :
-<<<<<<< HEAD
   to creat a function, you give it a name and then write the statments needed to achieve its task inside the curly braces. functions store the code required to perform specific task and that the script can ask the function to perform this task whenever needed. If different parts of a script need to to perform the same task, you do not need to repeat the same statmentsmultiple times, you use a function to do it and reuse the same code. 
 
   sometimes a function needs specific information to perform its task, in such cases when we declare a function we give it parameters where inside the function they act like variables. if a function needs information to work we indicates what it needs to know in parentheses after the function name known as the parameters of the function and inside the function they act like variables, this demonestrates how the code can perform a task without knoeing the exact details in advance.
@@ -15,14 +14,9 @@
       some functions return information to the code that called them, for example when they perform a calculation thehy return the result, this also demonestrates how the same function can be used to performe thte same steps with different values.
 
 
+
 [Home]( https://kztahat.github.io/reading-notes/)
 
-
-=======
-  to creat a function, you give it a name and then write the statments needed to achieve its task inside the curly braces.
-  sometimes a function needs specific information to perform its task, in such cases when we declare a function we give it parameters where inside the function they act like variables.
- - Calling a function 
->>>>>>> fb4394401151a977be22ebde80c65cc73a5093a3
   
 
   
