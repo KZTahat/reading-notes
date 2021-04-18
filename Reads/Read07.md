@@ -15,4 +15,4 @@ CSS treats each HTML element as if it appears in a box, and the background-color
   - **AlPHA**: This is expressed as a number between 0 and 1.0. For example, 0.5 represents 50% transparency, and 0.75represents 75% transparency.
 
 
-[Home]()
+[Home]( https://kztahat.github.io/reading-notes/)
