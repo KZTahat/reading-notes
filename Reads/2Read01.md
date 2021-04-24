@@ -41,8 +41,8 @@ Because there have been several versions of HTML, each web page should begin wit
 - _**DIV** Element_ 
   The **div** element allows us to group a set of elements together in one block-level box.For example, we might create a **div** element to contain all of the elements for the header of our site (the logo and the navigation), or we might create a **div** element to contain comments from visitors.
   
- ```
- <div id="header">
+```
+<div id="header">
 <img src="images/logo.gif" alt="Anish Kapoor" />
 <ul>
  <li><a href="index.html">Home</a></li>
@@ -51,6 +51,6 @@ Because there have been several versions of HTML, each web page should begin wit
  <li><a href="contact.html">Contact</a></li>
 </ul>
 </div><!-- end of header -->
- ```
+```
  
   In a browser, the contents of the **div** element will start on a new line, but other than this it will make no difference to the presentation of the page. Using an id or class attribute on the **div** element, however, means that you can create CSS style rules to indicate how much space the **div** element should occupy on the screen and change the appearance of all the elements contained within it.It can also make it easier to follow your code if you have used **div** elements to hold each section of the page.
