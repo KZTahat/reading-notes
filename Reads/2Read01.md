@@ -54,3 +54,6 @@ Because there have been several versions of HTML, each web page should begin wit
 ```
  
   In a browser, the contents of the **div** element will start on a new line, but other than this it will make no difference to the presentation of the page. Using an id or class attribute on the **div** element, however, means that you can create CSS style rules to indicate how much space the **div** element should occupy on the screen and change the appearance of all the elements contained within it.It can also make it easier to follow your code if you have used **div** elements to hold each section of the page.
+
+
+[Home]( https://kztahat.github.io/reading-notes/)
