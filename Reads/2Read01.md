@@ -23,7 +23,7 @@ simple document in Microsoft Word. The different styles for the document, such a
 
 ## Extra Markup
 Because there have been several versions of HTML, each web page should begin with a DOCTYPE declaration to tell a browser which version of HTML the page is using (although browsers usually display the page even if it is not included).When we come to look at CSS and its box model, the use of a DOCTYPE can also help the browser to render a page correctly. Because XHTML was written in XML, you will sometimes see pages that use the XHTML strict DOCTYPE start with the optional XML declaration. Where this is used, it should be the first thing in a document. There must be nothing before it, not even a space.
-- _Comments in **HTML**_
+- _**Comments** in HTML_
   If you want to add a comment to your code that will not be visible in the user's browser, you can add the text between these characters:
   ```
   <!-- comment goes here -->
@@ -39,7 +39,7 @@ Because there have been several versions of HTML, each web page should begin wit
   Every HTML element can also carry a class attribute. Sometimes, rather than uniquely identifying one element within a document, we will want a way to identify several elements as being different from the other elements on the page. For example, we might have some paragraphs of text that contain information that is more important than others and want to distinguish these elements, or we might want to differentiate between links that point to other pages on our own site and links that point to external sites. To do this we can use the class attribute. Its value should describe the class it belongs to. The class attribute on any element can share the same value.
   
 - _**DIV** Element_ 
-  he <div> element allows you to group a set of elements together in one block-level box.For example, you might create a <div> element to contain all of the elements for the header of your site (the logo and the navigation), or you might create a <div> element to contain comments from visitors.
+  The **div** element allows us to group a set of elements together in one block-level box.For example, we might create a **div** element to contain all of the elements for the header of our site (the logo and the navigation), or we might create a <div> element to contain comments from visitors.
  ```
  <div id="header">
 <img src="images/logo.gif" alt="Anish Kapoor" />
@@ -51,11 +51,4 @@ Because there have been several versions of HTML, each web page should begin wit
 </ul>
 </div><!-- end of header -->
  ```
-  In a browser, the contents of the **div** element will start on a new line, but other than this it will make no difference to the presentation of the page. Using an id or class attribute on the <div> element, however, means that you can create CSS style rules to indicate how much space the <div> element should occupy on the screen and change the appearance of all the elements contained within it.It can also make it easier to follow your code if you have used <div> elements to hold each section of the page.
-  
-- 
-  
-  
-  
-  
-  
+  In a browser, the contents of the **div** element will start on a new line, but other than this it will make no difference to the presentation of the page. Using an id or class attribute on the **div** element, however, means that you can create CSS style rules to indicate how much space the **div** element should occupy on the screen and change the appearance of all the elements contained within it.It can also make it easier to follow your code if you have used **div** elements to hold each section of the page.
