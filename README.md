@@ -3,10 +3,6 @@
 
 Hello , my name is Khaled tahat I'm 24 years old fresh graduated with a bachelor degree of biomedical informatics engineer gained from Yarmouk university.and here is my [GitHub account](KZTahat (github.com))
 
-<table>
-<tr><th>101&102 Reads</th><th>201 Reads</th></tr>
-<tr><td>
-
 |Num| Task Link                                                                               |
 |---|-----------------------------------------------------------------------------------------|
 |1  | [growthmindset](https://kztahat.github.io/reading-notes/growthmindset "Growth Mindset") |
