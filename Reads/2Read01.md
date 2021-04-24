@@ -39,7 +39,8 @@ Because there have been several versions of HTML, each web page should begin wit
   Every HTML element can also carry a class attribute. Sometimes, rather than uniquely identifying one element within a document, we will want a way to identify several elements as being different from the other elements on the page. For example, we might have some paragraphs of text that contain information that is more important than others and want to distinguish these elements, or we might want to differentiate between links that point to other pages on our own site and links that point to external sites. To do this we can use the class attribute. Its value should describe the class it belongs to. The class attribute on any element can share the same value.
   
 - _**DIV** Element_ 
-  The **div** element allows us to group a set of elements together in one block-level box.For example, we might create a **div** element to contain all of the elements for the header of our site (the logo and the navigation), or we might create a <div> element to contain comments from visitors.
+  The **div** element allows us to group a set of elements together in one block-level box.For example, we might create a **div** element to contain all of the elements for the header of our site (the logo and the navigation), or we might create a **div** element to contain comments from visitors.
+  
  ```
  <div id="header">
 <img src="images/logo.gif" alt="Anish Kapoor" />
@@ -51,4 +52,5 @@ Because there have been several versions of HTML, each web page should begin wit
 </ul>
 </div><!-- end of header -->
  ```
+ 
   In a browser, the contents of the **div** element will start on a new line, but other than this it will make no difference to the presentation of the page. Using an id or class attribute on the **div** element, however, means that you can create CSS style rules to indicate how much space the **div** element should occupy on the screen and change the appearance of all the elements contained within it.It can also make it easier to follow your code if you have used **div** elements to hold each section of the page.
