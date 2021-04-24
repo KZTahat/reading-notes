@@ -26,6 +26,6 @@ Hello , my name is Khaled tahat I'm 24 years old fresh graduated with a bachelor
 
 |Num| Task Link                                                                               |
 |---|-----------------------------------------------------------------------------------------|
-|1  | [Read01](  "Read01") |
+|1  | [Read01]( https://kztahat.github.io/reading-notes/Reads/2Read01 "Read01")               |
 
 </td></tr> </table>
