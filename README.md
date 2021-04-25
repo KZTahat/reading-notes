@@ -15,5 +15,10 @@ Hello , my name is Khaled tahat I'm 24 years old fresh graduated with a bachelor
 |8  | [Read06](https://kztahat.github.io/reading-notes/Reads/Read06 "Read06")                 |
 |9  | [Read07](https://kztahat.github.io/reading-notes/Reads/Read07 "Read07")                 |
 |10 | [Read09](https://kztahat.github.io/reading-notes/Reads/Read09 "Read09")                 |
-|11  | [2Read01]( https://kztahat.github.io/reading-notes/Reads/2Read01 "2Read01")            |
 
+&nbsp;
+
+|Num| Task Link                                                                               |
+|---|-----------------------------------------------------------------------------------------|
+|1  | [2Read01]( https://kztahat.github.io/reading-notes/Reads/2Read01 "2Read01")             |
+|2  | [2Read02]( https://kztahat.github.io/reading-notes/Reads/2Read02 "2Read02")             |
