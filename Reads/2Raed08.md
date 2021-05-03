@@ -18,6 +18,6 @@ We are going to look at how to control where each element sits on a page and how
 
             ***TO BE CONTINUED***
 
-
+<br />
 <br />
 [Home]( https://kztahat.github.io/reading-notes/)
