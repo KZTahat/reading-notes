@@ -1,4 +1,4 @@
-# Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions
+# HTML Text, CSS Introduction, and Basic JavaScript Instructions
 # Text
 - **Superscript & Subscript** <br />
     ```<sup>```:The ```<sup>``` element is used to contain characters that should be superscript such as the suffixes of dates or mathematical concepts like raising a number to a power such as 2<sup>2</sup>.
