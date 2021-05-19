@@ -36,3 +36,4 @@ Hello , my name is Khaled tahat I'm 24 years old fresh graduated with a bachelor
 |12  | [2Read12]( https://kztahat.github.io/reading-notes/Reads/2Read12 "2Read12")             |
 |13  | [2Read13]( https://kztahat.github.io/reading-notes/Reads/2Read13 "2Read13")             |
 |14a | [2Read14a]( https://kztahat.github.io/reading-notes/Reads/2Read14a "2Read14a")          |
+|14b | [2Read14b]( https://kztahat.github.io/reading-notes/Reads/2Read14b "2Read14b")          |
