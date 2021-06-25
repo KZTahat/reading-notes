@@ -3,7 +3,7 @@
 
 Hello , my name is Khaled tahat I'm 24 years old fresh graduated with a bachelor degree of biomedical informatics engineer gained from Yarmouk university.and here is my [GitHub account](KZTahat (github.com))
 
-|   |  101&102 Reading notes                                                                  |
+|  102 Reading notes |                                                                        |
 |---|-----------------------------------------------------------------------------------------|
 |Num| Link                                                                                    |
 |1  | [growthmindset](https://kztahat.github.io/reading-notes/growthmindset "Growth Mindset") |
@@ -19,7 +19,7 @@ Hello , my name is Khaled tahat I'm 24 years old fresh graduated with a bachelor
 
 &nbsp;
 
-|    |           201  reading notes                                                            |
+|  201 reading notes  |                                                                        |
 |----|-----------------------------------------------------------------------------------------|
 |Num |   link                                                                                  |
 |1   | [2Read01]( https://kztahat.github.io/reading-notes/Reads/2Read01 "2Read01")             |
@@ -37,3 +37,10 @@ Hello , my name is Khaled tahat I'm 24 years old fresh graduated with a bachelor
 |13  | [2Read13]( https://kztahat.github.io/reading-notes/Reads/2Read13 "2Read13")             |
 |14a | [2Read14a]( https://kztahat.github.io/reading-notes/Reads/2Read14a "2Read14a")          |
 |14b | [2Read14b]( https://kztahat.github.io/reading-notes/Reads/2Read14b "2Read14b")          |
+
+&nbsp;
+
+|  301 reading notes  |                                                                        |
+|----|-----------------------------------------------------------------------------------------|
+|Num |   link                                                                                  |
+|1   | [Read01]( https://kztahat.github.io/reading-notes/301Reads/Read01 "Read01")             |
