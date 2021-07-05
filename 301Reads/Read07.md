@@ -24,4 +24,6 @@
  to do a partial update, we use PATCH
  <br />
 
- 
+ <br />
+<br />
+[Home]( https://kztahat.github.io/reading-notes/)
