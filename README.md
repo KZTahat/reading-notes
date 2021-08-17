@@ -65,3 +65,4 @@ Hello , my name is Khaled tahat I'm 24 years old fresh graduated with a bachelor
 | 0                 | [get ready](https://kztahat.github.io/reading-notes/401Reads/GetReady "Getting Ready") |
 | 1                 | [Read01](https://kztahat.github.io/reading-notes/401Reads/Read01 "Read01")             |
 | 2                 | [Read02](https://kztahat.github.io/reading-notes/401Reads/Read02 "Read02")             |
+| 3                 | [Read03](https://kztahat.github.io/reading-notes/401Reads/Read03 "Read03")             |
