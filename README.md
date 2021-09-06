@@ -80,3 +80,4 @@ Hello , my name is Khaled tahat I'm 24 years old fresh graduated with a bachelor
 | 15                | [Trees](https://kztahat.github.io/reading-notes/401Reads/Read15 "Read15")              |
 | 16                | [Read16](https://kztahat.github.io/reading-notes/401Reads/Read16 "Read16")             |
 | 17                | [Read17](https://kztahat.github.io/reading-notes/401Reads/Read17 "Read17")             |
+| 18                | [Read18](https://kztahat.github.io/reading-notes/401Reads/Read18 "Read18")             |
