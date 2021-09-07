@@ -4,14 +4,14 @@
 
 - `Common Terminology`
 
-    - Node - A Tree node is a component which may contain it’s own values, and references to other nodes
-    - Root - The root is the node at the beginning of the tree
-    - K - A number that specifies the maximum number of children any node may have in a k-ary tree. In a binary tree, k = 2.
-    - Left - A reference to one child node, in a binary tree
-    - Right - A reference to the other child node, in a binary tree
-    - Edge - The edge in a tree is the link between a parent and child node
-    - Leaf - A leaf is a node that does not have any children
-    - Height - The height of a tree is the number of edges from the root to the furthest leaf
+  - Node - A Tree node is a component which may contain it’s own values, and references to other nodes
+  - Root - The root is the node at the beginning of the tree
+  - K - A number that specifies the maximum number of children any node may have in a k-ary tree. In a binary tree, k = 2.
+  - Left - A reference to one child node, in a binary tree
+  - Right - A reference to the other child node, in a binary tree
+  - Edge - The edge in a tree is the link between a parent and child node
+  - Leaf - A leaf is a node that does not have any children
+  - Height - The height of a tree is the number of edges from the root to the furthest leaf
 
 - `Sample Tree :`
 
@@ -20,15 +20,15 @@
      style="float: left; margin-right: 10px;" />
 
 - Traversals
-    An important aspect of trees is how to traverse them. Traversing a tree allows us to search for a node, print out the contents of a tree, and much more! There are two categories of traversals when it comes to trees:
-    
-    - Depth First.
+  An important aspect of trees is how to traverse them. Traversing a tree allows us to search for a node, print out the contents of a tree, and much more! There are two categories of traversals when it comes to trees:
 
-        - Pre-order: root >> left >> right
-        - In-order: left >> root >> right
-        - Post-order: left >> right >> root
+  - Depth First.
 
-    - Breadth First.
+    - Pre-order: root >> left >> right
+    - In-order: left >> root >> right
+    - Post-order: left >> right >> root
+
+  - Breadth First.
 
 - `Binary Tree Vs K-ary Trees`
 
@@ -46,7 +46,6 @@ If Nodes are able have more than 2 child nodes, we call the tree that contains t
      alt="code-challenge-2 whiteBoard"
      style="float: left; margin-right: 10px;" />
 
-
 - `Adding a node`
 
 Because there are no structural rules for where nodes are “supposed to go” in a binary tree, it really doesn’t matter where a new node gets placed.
@@ -56,8 +55,7 @@ One strategy for adding a new node to a binary tree is to fill all “child” s
 In the event you would like to have a node placed in a specific location, you need to reference both the new node to create, and the parent node upon which the child is attached to.
 
 - `Searching a BST`
-Searching a BST can be done quickly, because all you do is compare the node you are searching for against the root of the tree or sub-tree. If the value is smaller, you only traverse the left side. If the value is larger, you only traverse the right side.
-
+  Searching a BST can be done quickly, because all you do is compare the node you are searching for against the root of the tree or sub-tree. If the value is smaller, you only traverse the left side. If the value is larger, you only traverse the right side.
 
 - `Big O`
 
