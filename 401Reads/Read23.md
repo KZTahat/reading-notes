@@ -16,6 +16,7 @@
 - State Hook : A Hook is a special function that lets you “hook into” React features.
 - Component Lifecycle : We are born, grow, and then die. Almost everything follows this cycle in its life, and React components do as well. Components are created (mounted on the DOM), grow by updating, and then die (unmount on DOM).
 
+
 <br />
 <br />
 [Home]( https://kztahat.github.io/reading-notes/)
