@@ -87,4 +87,5 @@ Hello , my name is Khaled tahat I'm 24 years old fresh graduated with a bachelor
 | 22                | [Read22](https://kztahat.github.io/reading-notes/401Reads/Read22 "Read22")             |
 | 23                | [Read23](https://kztahat.github.io/reading-notes/401Reads/Read23 "Read23")             |
 | 24                | [Hash Tables](https://kztahat.github.io/reading-notes/401Reads/Read24 "Read24")        |
-| 32                | [Hash Tables](https://kztahat.github.io/reading-notes/401Reads/Read32 "Read32")        |
+| 32                | [Read32](https://kztahat.github.io/reading-notes/401Reads/Read32 "Read32")             |
+| 33                | [Read33](https://kztahat.github.io/reading-notes/401Reads/Read33 "Read33")             |
